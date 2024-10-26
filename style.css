@@ -1,0 +1,15 @@
+#home {
+	position: relative;
+}
+
+.side-image {
+	float: right;
+	margin-left: 20px;
+	width: 600px;
+	/* Adjust the width as needed */
+}
+
+.small-image {
+	width: 300px;
+	/* Adjust this width to make the image smaller */
+}
